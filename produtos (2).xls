@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body><table border="1"><tr><td colspan="5">Produtos</tr></tr><tr><td><b>NOME</b></td><td><b>UND</b></td><td><b>QTD</b></td><td><b>CODIGO</b></td><td><b>LOCALIZAÇÃO</b></td></tr><tr><td>produto</td><td>pct</td><td>10</td><td>123456</td><td>20</td></tr><tr><td>produto</td><td>pct</td><td>10</td><td>123</td><td>35</td></tr><tr><td>zzzzz</td><td>zzzzz</td><td>10</td><td>123456</td><td>132</td></tr></table>
